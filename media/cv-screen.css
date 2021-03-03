@@ -139,7 +139,7 @@ table {
 
 body {
   font: normal normal 400;
-  font-size: 120%;
+  font-size: 100%;
   line-height: 1.5em;
   /*also written as...  font: normal normal 400 100%/1.5em;*/
   font-family: "Helvetica", sans-serif;
@@ -223,7 +223,7 @@ li {
   /*second line indent*/
   /* padding-left: 2.25em;
   text-indent: -1.25em; */
-  color: #777;
+  /* color: #777; */
 }
 
 #contact-info {
