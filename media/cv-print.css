@@ -91,6 +91,7 @@ video {
   font: inherit;
   vertical-align: baseline;
 }
+
 /* HTML5 display-role reset for older browsers */
 article,
 aside,
@@ -105,17 +106,22 @@ nav,
 section {
   display: block;
 }
+
 body {
   line-height: 1;
 }
+
 ol,
 ul {
-  list-style: none;
+  padding-left: 2.25em;
+  list-style: disc;
 }
+
 blockquote,
 q {
   quotes: none;
 }
+
 blockquote:before,
 blockquote:after,
 q:before,
@@ -123,6 +129,7 @@ q:after {
   content: "";
   content: none;
 }
+
 table {
   border-collapse: collapse;
   border-spacing: 0;
@@ -181,6 +188,7 @@ h2 {
   margin-bottom: 0.5em;
   width: 100%;
 }
+
 h2:after {
   border-bottom: 1.7px dashed #d3d3d3;
   /* height: 0.8em; */
@@ -203,17 +211,17 @@ code {
   float: right;
 }
 
-li:before {
+/* li:before {
   content: "-";
   position: relative;
   left: -0.5em;
-}
+} */
 
 li {
   /*second line indent*/
-  padding-left: 2.25em;
-  text-indent: -1.25em;
-  /*color: #777;*/
+  /* padding-left: 2.25em;
+  text-indent: -1.25em; */
+  color: #777;
 }
 
 #contact-info {
@@ -232,9 +240,11 @@ li {
   p {
     page-break-inside: avoid;
   }
+
   h2 {
     page-break-after: avoid;
   }
+
   h3 {
     page-break-after: avoid;
   }
@@ -247,7 +257,8 @@ a {
 
 @media print {
   hr {
-    page-break-after: always; /* CSS 2 */
+    page-break-after: always;
+    /* CSS 2 */
     /* minimal layout disruption: */
     height: 0.1mm;
     visibility: hidden;
