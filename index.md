@@ -69,6 +69,11 @@ Supported arguments:
 - Java/Python/C++/Springboot/MySQL/NLP<br>
 
 ### **机器学习在基因组学中的应用** `宾夕法尼亚州立大学 (2020 - 2021)`
+- 将机器学习算法应用于基因数据融合，进行样本分类、特征预测等<br>
+- 采用CCA（canonical correlation analysis）算法进行数据降维，消除batch effect<br>
+- 采用OT（optimal transport）算法进行最优分类<br>
+- 采用MNN（mutual nearest neighbors）算法进行数据融合<br>
+- R/Python/Matlab<br>
 
 ## Honors & Awards
 
