@@ -1,17 +1,17 @@
 ---
 layout: cv
-title: Wode "Nimo" Ni
+title: Xingxin Liu
 email:
-  url: mailto:woden@cs.cmu.edu
-  text: woden@cs.cmu.edu
+  url: mailto:xingxinliu@xxl.com
+  text: xingxinliu@xxl.com
 homepage:
-  url: http://cs.cmu.edu/~woden
-  text: cs.cmu.edu/~woden
+  url: http://xxl.com/index.html
+  text: xxl.com
 phone:
-  '18217195632'
+  '1888888xxx'
 ---
 
-# Wode **Ni**
+# Xingxin **Liu**
 
 <!--
 include contact information from the front matter
