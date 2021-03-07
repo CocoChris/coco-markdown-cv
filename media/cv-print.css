@@ -224,12 +224,16 @@ li {
   /* color: #777; */
 }
 
+#profile {
+  float:left
+}
+
 #contact-info {
   text-align: center;
   position: relative;
   font-weight: lighter;
   color: #ccc;
-  /* font-family: Menlo,monospace,sans-serif; */
+  font-family: Menlo,monospace,sans-serif;
 }
 
 #contact-info a {

@@ -1,18 +1,69 @@
-<div id="contact-info">
+<div id="title">
+    <div id="profile">
+        {% if page.homepage %}
 
-    {% if page.homepage %}
-    <i class="fi-home" style="margin-left:1em"></i>
-    <a href="{{ page.homepage.url }}" style="margin-left:0.5em"> {{ page.homepage.text }}</a>
-    {% endif %}
+        <h1 id="xingxin-liu">
+            <img src="assets/profile.jpeg" style="vertical-align:middle;height: 2em; padding-bottom: 0.2em;">
+            <!-- Xingxin <strong>Liu</strong> -->
+        </h1>
+        {% endif %}
+    </div>
 
-    {% if page.email %}
-    <i class="fi-mail" style="margin-left:1em"></i>
-    <a href="{{ page.email.url }}" style="margin-left:0.5em">{{ page.email.text }}</a>
-    {% endif %}
+    <div style="line-height: 40px;" id="info">
+        
+        <div id="contact-info">
 
-    {% if page.phone %}
-    <i class="fi-telephone" style="margin-left:1em"></i>
-    {{ page.phone }}
-    {% endif %}
+            {% if page.username %}
+            <i class="fi-male" style="margin-left:20em"></i>
+            姓名: <strong>刘星鑫</strong>
+            {% endif %}
 
+        </div>
+
+        <div id="contact-info">
+
+            {% if page.age %}
+            <i class="fi-calendar" style="margin-left:20em"></i>
+            年龄: {{ page.age }}
+            {% endif %}
+
+        </div>
+
+        <div id="contact-info">
+
+            {% if page.phone %}
+            <i class="fi-telephone" style="margin-left:20em"></i>
+            手机: {{ page.phone }}
+            {% endif %}
+
+        </div>
+
+        <div id="contact-info">
+
+            {% if page.wechat %}
+            <i class="fi-social-skype" style="margin-left:20em"></i>
+            微信: {{ page.wechat }}
+            {% endif %}
+
+        </div>
+
+        <div id="contact-info">
+
+            {% if page.email %}
+            <i class="fi-mail" style="margin-left:20em"></i>
+            <a href="{{ page.email.url }}" style="margin-left:0em">邮箱: {{ page.email.text }}</a>
+            {% endif %}
+
+        </div>
+
+        <div id="contact-info">
+
+            {% if page.homepage %}
+            <i class="fi-social-github" style="margin-left:20em"></i>
+            <!-- <a href="{{ page.homepage.url }}" style="margin-left:0.5em">github: {{ page.homepage.text }}</a> -->
+            github: {{ page.homepage.text }}
+            {% endif %}
+
+        </div>
+    </div>
 </div>

@@ -1,17 +1,23 @@
 ---
 layout: cv
-title: Wode "Nimo" Ni
+title: Xingxin Liu
 email:
-  url: mailto:woden@cs.cmu.edu
-  text: woden@cs.cmu.edu
+  url: mailto:191384643@qq.com
+  text: 191384643@qq.com
 homepage:
-  url: http://cs.cmu.edu/~woden
-  text: cs.cmu.edu/~woden
+  url: https://github.com/CocoChris
+  text: https://github.com/CocoChris
 phone:
-  '18217195632'
+  '182-1719-5632'
+username:
+  text: '刘星鑫'
+age:
+  '28'
+wechat:
+  'sznznted'
 ---
 
-# Wode **Ni**
+<!-- # Xingxin **Liu** -->
 
 <!--
 include contact information from the front matter
@@ -28,6 +34,7 @@ Supported arguments:
 ### **上海交通大学&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;硕士&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;图像处理专业&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;GPA：3.7/4.3（20%）** `2015.9 - 2018.3`
 
 ### **上海交通大学&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;本科&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;电气工程专业&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;GPA：2.81/3.3（5%）** `2011.9 - 2015.6`
+
 ## 工作经历
 
 ### [**宾夕法尼亚州立大学&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;统计系 - 机器学习方向**]() `2020.6 -`
