@@ -228,12 +228,17 @@ li {
   float:left
 }
 
+#info {
+  float:middle
+}
+
 #contact-info {
-  text-align: center;
+  text-align: left;
   position: relative;
   font-weight: lighter;
-  color: #ccc;
+  color: rgb(20, 116, 151);
   font-family: Menlo,monospace,sans-serif;
+  font-size: 110%;
 }
 
 #contact-info a {

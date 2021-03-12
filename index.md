@@ -39,7 +39,7 @@ Supported arguments:
 
 ### [**宾夕法尼亚州立大学&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;统计系 - 机器学习方向**]() `2020.6 -`
 
-研究实习生&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;研究方向是机器学习算法在基因组学中的应用<br>
+访问学者&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;研究方向是机器学习算法在基因组学中的应用<br>
 
 ### [**爱奇艺（上海）&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;智能平台部 - 大数据服务组**]() `2018.5 - 2020.5`
 
